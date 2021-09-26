@@ -2,7 +2,7 @@
 ## project Live : https://business-haunt.netlify.app/
 
 
-## Project Status:complete!
+## Project Status: complete!
 
 
 
