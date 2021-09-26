@@ -1,5 +1,6 @@
-## Top companies in Bnagladesh
+## Project Name: Top companies in Bnagladesh
 ## project Live :
+
 
 ## Project Status
 complete
@@ -9,7 +10,7 @@ complete
 
 #### Example:   
 
-![alt text](https://seeklogo.com/images/A/aci-group-logo-BABDEC820D-seeklogo.com.png)
+![alt text](https://raw.githubusercontent.com/coderSabbirr/my-app-react/main/Screenshot_131.jpg)
 
 ## Installation and Setup Instructions
 
