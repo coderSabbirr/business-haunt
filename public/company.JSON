@@ -1,0 +1,114 @@
+[
+    
+    { 
+        "key": "B002RL8IYK",
+        "name":"ACI Limited",
+        "type":"Public Limited",
+        "founded":"24 January 1973",
+        "founder":"M. Anis Ud Dowla",
+        "headquarters":"ACI Centre 245, Tejgaon Industrial ",
+        "revenue":820000000,
+        "image":"https://seeklogo.com/images/A/aci-group-logo-BABDEC820D-seeklogo.com.png"
+    },
+    { 
+        "key": "B002RL8IYK1",
+        "name":"Bashundhara Group",
+        "type":"Conglomerate",
+        "founded":"1987; 34 years ago",
+        "founder":"Ahmed Akbar Sobhan",
+        "headquarters":"Bashundhara Convention Center ",
+        "revenue":50000000000,
+        "image":"https://www.bashundharagroup.com/assets/upload/cover/cover_1595230293.jpg"
+    },
+    {
+        "key": "B002RL8IYK2",
+        "name":"Akij Group",
+        "type":"Public",
+        "founded":"1950; 71 years ago",
+        "founder":"Sheikh Akijuddin",
+        "headquarters":"Dhaka, Bangladesh",
+        "revenue":1500000000,
+        "image":"https://upload.wikimedia.org/wikipedia/en/d/dd/Agkijlogo.gif"
+    },
+    {
+        "key": "B002RL8IYK3",
+        "name":"Square Group",
+        "type":"Public",
+        "founded":"1958",
+        "founder":"Samson H. Chowdhury",
+        "headquarters":"Dhaka, Bangladesh",
+        "revenue":795000000,
+        "image":"http://www.e-home2u.com/images/square_banner.jpg"
+    },
+    {
+        "key": "B002RL8IYK4",
+        "name":"BEXIMCO",
+        "type":"Public",
+        "founded":"1972; 49 years ago",
+        "founder":"A. S. F. Rahman ,Salman F Rahman",
+        "headquarters":"Dhaka, Bangladesh",
+        "revenue":304000000,
+        "image":"https://www.beximco.com/themes/beximco/assets/images/industry-beximco.jpg"
+    },
+    {
+        "key": "B002RL8IYK5",
+        "name":"Abul Khair Group",
+        "type":"Public Limited",
+        "founded":"1953",
+        "founder":"Abul Khair Litu",
+        "headquarters":"Chittagong, Bangladesh",
+        "revenue":2000000000,
+        "image":"https://seeklogo.com/images/A/abul-khair-group-logo-5C6C08FA1F-seeklogo.com.png"
+    },
+    {
+        "key": "B002RL8IYK6",
+        "name":"Navana Group",
+        "type":"Conglomerates",
+        "founded":"1996",
+        "founder":"Shafiul Islam Kamal",
+        "headquarters":"Dhaka, Bangladesh.",
+        "revenue":126000000,
+        "image":"https://media-eng.dhakatribune.com/uploads/2020/07/navana-group-1593969869501.jpg"
+    },
+    {
+        "key": "B002RL8IYK7",
+        "name":"Chevron Corporation",
+        "type":"Private",
+        "founded":"September 10, 1879",
+        "founder":"Charles N. Felton",
+        "headquarters":"San Ramon, California,U.S.",
+        "revenue":94400000000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chevron_Logo.svg/120px-Chevron_Logo.svg.png"
+    },
+    {
+        "key": "B002RL8IYK8",
+        "name":"Grameenphone",
+        "type":"Public Limited",
+        "founded":"24 January 1973",
+        "founder":"M. Anis Ud Dowla",
+        "headquarters":"Dhaka",
+        "revenue":820000000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grameenphone_Logo_GP_Logo.svg/150px-Grameenphone_Logo_GP_Logo.svg.png"
+    },
+    {
+        "key": "B002RL8IYK9",
+        "name":"Nestlé",
+        "type":"Public",
+        "founded":"1866; 155 years ago",
+        "founder":"Henri Nestlé",
+        "headquarters":"Vevey, Vaud, Switzerland",
+        "revenue":91400000000,
+        "image":"data:image/png;base64,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"
+    },
+    {
+        "key": "B002RL8IYK10",
+        "name":"Unilever plc",
+        "type":"Public limited company",
+        "founded":"2 September 1929",
+        "founder":"William Lever",
+        "headquarters":"London, England",
+        "revenue":50740000000,
+        "image":"https://www.ontaheen.com/wp-content/uploads/2017/06/Unilever-Bangladesh-Ltd.jpg"
+    }
+
+]

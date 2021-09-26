@@ -1,0 +1,8 @@
+.cart {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-top: 20px;
+}
+.all-cart {
+    margin-left:50px;
+}

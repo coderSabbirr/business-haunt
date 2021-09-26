@@ -1,0 +1,40 @@
+.card-deatils{
+    width: 200px;
+}
+.single-product {
+    background-color: #fafbfc;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin:20px;
+    transition: 0.6s;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 6px;
+    border-radius: 20px;
+  }
+  .single-product:hover {
+    background-color: #e1eaf3cc;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  }
+  .company-name {
+      margin-top: 5px;
+  }
+  .single-product p{
+      margin: 5px;
+  }
+  .company-image {
+    width: 100px;
+    height: 100px;
+    
+  }
+  .btn-custom{
+      margin: auto;
+      background-color: #f57224;
+      border: #f57224;
+      border-radius: 10px;
+      color: white;
+      width: 150px;
+      padding: 10px;
+      transition: 0.6s;
+      
+    
+  }
